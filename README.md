@@ -1,4 +1,3 @@
-<h1 align="center">I'm Software Engineer 💫</h1>
 
 - 🔭 I’m currently working on **ERP Project**
 
