@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **C , C++, Python**
 
-- 📫 How to reach me **sgulnurdadak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
